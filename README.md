@@ -3,6 +3,8 @@
 **Proyecto Big Data I · Universidad Europea de Valencia**
 **Estado del proyecto: TALLER GIT COMPLETADO**
 
+[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](LICENSE)
+
 Repositorio con el taller guiado de Git resuelto de principio a fin: repositorio local, *staging*, commits, ramas, fusiones, conflicto controlado y publicación en GitHub mediante *Pull Request*.
 
 - **Repositorio:** <https://github.com/tonyelos/campus-pulse-git>
@@ -147,6 +149,16 @@ La guía `docs/GUIA_TALLER_GIT.docx` recoge, fase por fase:
 
 ## 8. Autoría
 
-- **Alumno:** tonyelos (<https://github.com/tonyelos>)
+- **Alumno:** Yiao TANG (tonyelos) — <https://github.com/tonyelos>
 - **Asignatura:** Proyecto Big Data I — M31-9798 M3R-9798
 - **Material de partida:** `CampusPulse_TALLER` y «Hoja de taller guiado» del aula virtual (UEV).
+
+## 9. Licencia
+
+Este repositorio se publica bajo la **licencia MIT** (ver [`LICENSE`](LICENSE)): se permite usar, copiar, modificar, fusionar, publicar, distribuir y vender el código, siempre que se conserve el aviso de copyright y el texto de la licencia. Se entrega **sin garantías**.
+
+```text
+MIT License · Copyright (c) 2026 Yiao TANG (tonyelos)
+```
+
+> El proyecto parte del material didáctico `CampusPulse_TALLER` del aula virtual de Proyecto Big Data I (UEV). La licencia MIT se aplica a este repositorio y a las aportaciones realizadas en él; el material docente original pertenece a sus autores.
