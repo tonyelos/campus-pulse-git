@@ -1,0 +1,7 @@
+timestamp,id_sensor,edificio,consumo_kwh
+2026-10-01T09:00:00,S01,Edificio A,60
+2026-10-01T10:00:00,S01,Edificio A,64
+2026-10-01T09:00:00,S02,Edificio B,73
+2026-10-01T10:00:00,S02,Edificio B,77
+2026-10-01T09:00:00,S03,Edificio C,90
+2026-10-01T10:00:00,S03,Edificio C,94

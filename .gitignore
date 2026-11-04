@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE y sistemas
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credenciales y datos no versionables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+
+# Resultados locales
+output/
+logs/
+data/raw/

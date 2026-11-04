@@ -1,0 +1,5 @@
+# Finales de línea coherentes en Windows/Linux/macOS
+*.py text eol=lf
+*.csv text eol=lf
+*.ini text eol=lf
+*.md text eol=lf
