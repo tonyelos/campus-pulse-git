@@ -1,6 +1,6 @@
 # CampusPulse — Proyecto base para Git from Zero to Hero
 
-**Estado del proyecto: BASE**
+**Estado del proyecto: TALLER GIT**
 
 Proyecto didáctico de la asignatura **Proyecto Big Data I**. Simula un pequeño pipeline que lee mediciones de consumo energético de sensores de distintos edificios de un campus universitario, calcula resúmenes sencillos y aplica un umbral de alerta configurable.
 
